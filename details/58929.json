@@ -1,0 +1,268 @@
+{
+  "mal_id": 58929,
+  "url": "https://myanimelist.net/anime/58929/Koukaku_Kidoutai_TV",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1474/158937.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/158937t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/158937l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1474/158937.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1474/158937t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1474/158937l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/-TEMcbY2JGs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Koukaku Kidoutai (TV)"
+    },
+    {
+      "type": "Japanese",
+      "title": "攻殻機動隊 THE GHOST IN THE SHELL"
+    },
+    {
+      "type": "English",
+      "title": "The Ghost in the Shell"
+    }
+  ],
+  "title": "Koukaku Kidoutai (TV)",
+  "title_english": "The Ghost in the Shell",
+  "title_japanese": "攻殻機動隊 THE GHOST IN THE SHELL",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-07T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 7, 2026 to ?"
+  },
+  "duration": "23 min",
+  "rating": "R - 17+ (violence & profanity)",
+  "score": 8.02,
+  "scored_by": 3816,
+  "rank": 722,
+  "popularity": 3230,
+  "members": 62112,
+  "favorites": 182,
+  "synopsis": "In the year 2029, Niihama City has become a technologically advanced metropolis. Due to great improvements in cybernetics, its citizens are able to replace their limbs with robotic parts. The world is now more interconnected than ever before, and the city's Public Security Section 9 is responsible for combating corruption, terrorism, and other dangerous threats following this shift toward globalization.\n\nThe strong-willed Major Motoko Kusanagi of Section 9 spearheads a case involving a mysterious hacker known only as the \"Puppet Master,\" who leaves a trail of victims stripped of their memories. Like many in this futuristic world, the Puppet Master's body is almost entirely robotic, giving them incredible power.\n\nAs Motoko and her subordinates follow the enigmatic criminal's trail, other parties—including Section 6—start to get involved, forcing her to confront the extremely complicated nature of the case. Pondering about various philosophical questions, such as her own life's meaning, Motoko soon realizes that the one who will provide these answers is none other than the Puppet Master themself.\n\n[Written by MAL Rewrite]",
+  "background": "Koukaku Kidoutai (TV) aired on Kansai TV and Fuji TV's Ka-Anival!! block.",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "23:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 23:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Production I.G",
+      "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+    },
+    {
+      "mal_id": 53,
+      "type": "anime",
+      "name": "Dentsu",
+      "url": "https://myanimelist.net/anime/producer/53/Dentsu"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 464,
+      "type": "anime",
+      "name": "flying DOG",
+      "url": "https://myanimelist.net/anime/producer/464/flying_DOG"
+    },
+    {
+      "mal_id": 577,
+      "type": "anime",
+      "name": "Tohokushinsha Film Corporation",
+      "url": "https://myanimelist.net/anime/producer/577/Tohokushinsha_Film_Corporation"
+    },
+    {
+      "mal_id": 1412,
+      "type": "anime",
+      "name": "Kansai TV",
+      "url": "https://myanimelist.net/anime/producer/1412/Kansai_TV"
+    },
+    {
+      "mal_id": 2424,
+      "type": "anime",
+      "name": "Bandai Namco Filmworks",
+      "url": "https://myanimelist.net/anime/producer/2424/Bandai_Namco_Filmworks"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1591,
+      "type": "anime",
+      "name": "Science SARU",
+      "url": "https://myanimelist.net/anime/producer/1591/Science_SARU"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 7,
+      "type": "anime",
+      "name": "Mystery",
+      "url": "https://myanimelist.net/anime/genre/7/Mystery"
+    },
+    {
+      "mal_id": 24,
+      "type": "anime",
+      "name": "Sci-Fi",
+      "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+    },
+    {
+      "mal_id": 41,
+      "type": "anime",
+      "name": "Suspense",
+      "url": "https://myanimelist.net/anime/genre/41/Suspense"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 39,
+      "type": "anime",
+      "name": "Detective",
+      "url": "https://myanimelist.net/anime/genre/39/Detective"
+    },
+    {
+      "mal_id": 40,
+      "type": "anime",
+      "name": "Psychological",
+      "url": "https://myanimelist.net/anime/genre/40/Psychological"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 1023,
+          "type": "manga",
+          "name": "Koukaku Kidoutai: The Ghost in the Shell",
+          "url": "https://myanimelist.net/manga/1023/Koukaku_Kidoutai__The_Ghost_in_the_Shell"
+        }
+      ]
+    },
+    {
+      "relation": "Alternative Version",
+      "entry": [
+        {
+          "mal_id": 43,
+          "type": "anime",
+          "name": "Koukaku Kidoutai",
+          "url": "https://myanimelist.net/anime/43/Koukaku_Kidoutai"
+        },
+        {
+          "mal_id": 4672,
+          "type": "anime",
+          "name": "Koukaku Kidoutai 2.0",
+          "url": "https://myanimelist.net/anime/4672/Koukaku_Kidoutai_20"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"GO GHOST\" by King Gnu"
+    ],
+    "endings": [
+      "\"Blue\" by MILLENNIUM PARADE feat. Saya Gray, Daniel Caesar"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://www.theghostintheshell-anime.jp"
+    },
+    {
+      "name": "@thegits_anime",
+      "url": "https://twitter.com/thegits_anime"
+    },
+    {
+      "name": "@thegits_animeEN",
+      "url": "https://twitter.com/thegits_animeEN"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=18652"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=32762"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Ghost_in_the_Shell_(2026_TV_series)"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/攻殻機動隊#テレビアニメ"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7936"
+    }
+  ],
+  "streaming": []
+}

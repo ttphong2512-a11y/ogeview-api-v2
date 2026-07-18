@@ -1,0 +1,245 @@
+{
+  "mal_id": 62542,
+  "url": "https://myanimelist.net/anime/62542/Grand_Blue_Season_3",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1615/158194.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1615/158194.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1615/158194l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/KJw6ZZaMOWA?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Grand Blue Season 3"
+    },
+    {
+      "type": "Japanese",
+      "title": "ぐらんぶる Season 3"
+    },
+    {
+      "type": "English",
+      "title": "Grand Blue Dreaming Season 3"
+    }
+  ],
+  "title": "Grand Blue Season 3",
+  "title_english": "Grand Blue Dreaming Season 3",
+  "title_japanese": "ぐらんぶる Season 3",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 12,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-07T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 7, 2026 to ?"
+  },
+  "duration": "24 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 8.41,
+  "scored_by": 4211,
+  "rank": 220,
+  "popularity": 2774,
+  "members": 80543,
+  "favorites": 239,
+  "synopsis": "Third season of Grand Blue.",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "00:00",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 00:00 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 143,
+      "type": "anime",
+      "name": "Mainichi Broadcasting System",
+      "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+    },
+    {
+      "mal_id": 159,
+      "type": "anime",
+      "name": "Kodansha",
+      "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1284,
+      "type": "anime",
+      "name": "Avex Pictures",
+      "url": "https://myanimelist.net/anime/producer/1284/Avex_Pictures"
+    },
+    {
+      "mal_id": 1501,
+      "type": "anime",
+      "name": "JR East Marketing & Communications",
+      "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing___Communications"
+    },
+    {
+      "mal_id": 2671,
+      "type": "anime",
+      "name": "Saber Links",
+      "url": "https://myanimelist.net/anime/producer/2671/Saber_Links"
+    },
+    {
+      "mal_id": 2840,
+      "type": "anime",
+      "name": "qooop",
+      "url": "https://myanimelist.net/anime/producer/2840/qooop"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 1379,
+      "type": "anime",
+      "name": "Zero-G",
+      "url": "https://myanimelist.net/anime/producer/1379/Zero-G"
+    },
+    {
+      "mal_id": 2985,
+      "type": "anime",
+      "name": "Saber Works",
+      "url": "https://myanimelist.net/anime/producer/2985/Saber_Works"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 4,
+      "type": "anime",
+      "name": "Comedy",
+      "url": "https://myanimelist.net/anime/genre/4/Comedy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 50,
+      "type": "anime",
+      "name": "Adult Cast",
+      "url": "https://myanimelist.net/anime/genre/50/Adult_Cast"
+    },
+    {
+      "mal_id": 57,
+      "type": "anime",
+      "name": "Gag Humor",
+      "url": "https://myanimelist.net/anime/genre/57/Gag_Humor"
+    }
+  ],
+  "demographics": [
+    {
+      "mal_id": 42,
+      "type": "anime",
+      "name": "Seinen",
+      "url": "https://myanimelist.net/anime/genre/42/Seinen"
+    }
+  ],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 59986,
+          "type": "anime",
+          "name": "Grand Blue Season 2",
+          "url": "https://myanimelist.net/anime/59986/Grand_Blue_Season_2"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 70345,
+          "type": "manga",
+          "name": "Grand Blue",
+          "url": "https://myanimelist.net/manga/70345/Grand_Blue"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Natsuko (夏子)\" by FUNKY MONKEY BΛBY'S"
+    ],
+    "endings": [
+      "\"Hadaka no Mermaid (裸のマーメード)\" by MAMESHiBA NO TAiGUN (豆柴の大群)"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "http://www.grandblue-anime.com"
+    },
+    {
+      "name": "@gb_anime",
+      "url": "https://twitter.com/gb_anime"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19600"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=37864"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grand_Blue_Dreaming#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/ぐらんぶる#テレビアニメ"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7916"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    }
+  ]
+}

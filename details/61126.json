@@ -1,0 +1,255 @@
+{
+  "mal_id": 61126,
+  "url": "https://myanimelist.net/anime/61126/Kimi_ga_Shinu_made_Koi_wo_Shitai",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1096/158712.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/158712t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/158712l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1096/158712.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1096/158712t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1096/158712l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/zJLbfK_9ZmQ?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Kimi ga Shinu made Koi wo Shitai"
+    },
+    {
+      "type": "Synonym",
+      "title": "My Wish Is to Fall in Love Until You Die."
+    },
+    {
+      "type": "Synonym",
+      "title": "Kimishinu"
+    },
+    {
+      "type": "Japanese",
+      "title": "きみが死ぬまで恋をしたい"
+    },
+    {
+      "type": "English",
+      "title": "I Want to Love You Till Your Dying Day"
+    }
+  ],
+  "title": "Kimi ga Shinu made Koi wo Shitai",
+  "title_english": "I Want to Love You Till Your Dying Day",
+  "title_japanese": "きみが死ぬまで恋をしたい",
+  "title_synonyms": [
+    "My Wish Is to Fall in Love Until You Die.",
+    "Kimishinu"
+  ],
+  "type": "TV",
+  "source": "Manga",
+  "episodes": 13,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-07T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 7,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 7, 2026 to ?"
+  },
+  "duration": "23 min per ep",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.81,
+  "scored_by": 2707,
+  "rank": 1141,
+  "popularity": 3202,
+  "members": 63290,
+  "favorites": 339,
+  "synopsis": "The death of Sheena Totsuki's roommate is casually announced at the start of class, and the day carries on as usual. In an orphanage that raises children as soldiers, death is nothing new to the residents. With their home country embroiled in a war that has dragged on for too many years and shows no signs of stopping, the institution's children are sent off to die in battle every day. In contrast to the other orphans, Sheena is deeply disturbed by the ongoing conflict and wishes for it to end.\n\nOn the night of her roommate's death, Sheena met a blood-covered girl who remained jubilant despite the condition she was in. The next day, the girl appears as a new student in Sheena's class and introduces herself as Mimi Kagari. Initially thought to be a school myth, Mimi is said to be the secret weapon of the orphanage—a girl who cannot die. Assigned as Sheena's new roommate, Mimi hopes to get along with her and get accustomed to school life.\n\nHowever, unsettled by Mimi's carefree attitude toward the war, Sheena struggles to accept the world they live in, all while their unusual friendship flourishes amid the bleak situation.\n\n[Written by MAL Rewrite]",
+  "background": "",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Tuesdays",
+    "time": "21:30",
+    "timezone": "Asia/Tokyo",
+    "string": "Tuesdays at 21:30 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 33,
+      "type": "anime",
+      "name": "WOWOW",
+      "url": "https://myanimelist.net/anime/producer/33/WOWOW"
+    },
+    {
+      "mal_id": 166,
+      "type": "anime",
+      "name": "Movic",
+      "url": "https://myanimelist.net/anime/producer/166/Movic"
+    },
+    {
+      "mal_id": 238,
+      "type": "anime",
+      "name": "AT-X",
+      "url": "https://myanimelist.net/anime/producer/238/AT-X"
+    },
+    {
+      "mal_id": 306,
+      "type": "anime",
+      "name": "Magic Capsule",
+      "url": "https://myanimelist.net/anime/producer/306/Magic_Capsule"
+    },
+    {
+      "mal_id": 1386,
+      "type": "anime",
+      "name": "Infinite",
+      "url": "https://myanimelist.net/anime/producer/1386/Infinite"
+    },
+    {
+      "mal_id": 1551,
+      "type": "anime",
+      "name": "Kadokawa Media House",
+      "url": "https://myanimelist.net/anime/producer/1551/Kadokawa_Media_House"
+    },
+    {
+      "mal_id": 1582,
+      "type": "anime",
+      "name": "Ichijinsha",
+      "url": "https://myanimelist.net/anime/producer/1582/Ichijinsha"
+    },
+    {
+      "mal_id": 1696,
+      "type": "anime",
+      "name": "Kadokawa",
+      "url": "https://myanimelist.net/anime/producer/1696/Kadokawa"
+    },
+    {
+      "mal_id": 1779,
+      "type": "anime",
+      "name": "NewGin",
+      "url": "https://myanimelist.net/anime/producer/1779/NewGin"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 2835,
+      "type": "anime",
+      "name": "ROLL2",
+      "url": "https://myanimelist.net/anime/producer/2835/ROLL2"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    },
+    {
+      "mal_id": 26,
+      "type": "anime",
+      "name": "Girls Love",
+      "url": "https://myanimelist.net/anime/genre/26/Girls_Love"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [
+    {
+      "mal_id": 23,
+      "type": "anime",
+      "name": "School",
+      "url": "https://myanimelist.net/anime/genre/23/School"
+    }
+  ],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 115122,
+          "type": "manga",
+          "name": "Kimi ga Shinu made Koi wo Shitai",
+          "url": "https://myanimelist.net/manga/115122/Kimi_ga_Shinu_made_Koi_wo_Shitai"
+        }
+      ]
+    },
+    {
+      "relation": "Other",
+      "entry": [
+        {
+          "mal_id": 61134,
+          "type": "anime",
+          "name": "Kimi ga Shinu made Koi wo Shitai Pilot",
+          "url": "https://myanimelist.net/anime/61134/Kimi_ga_Shinu_made_Koi_wo_Shitai_Pilot"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Amore\" by ReoNa"
+    ],
+    "endings": [
+      "\"Eternal (エテルネル)\" by sajou no hana"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://infinitedayo.jp/special/kimishinu-anime/"
+    },
+    {
+      "name": "@anime_kimishinu",
+      "url": "https://twitter.com/anime_kimishinu"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19189"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=34913"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/I_Want_to_Love_You_Till_Your_Dying_Day"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/%E3%81%8D%E3%81%BF%E3%81%8C%E6%AD%BB%E3%81%AC%E3%81%BE%E3%81%A7%E6%81%8B%E3%82%92%E3%81%97%E3%81%9F%E3%81%84"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7910"
+    }
+  ],
+  "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/"
+    }
+  ]
+}

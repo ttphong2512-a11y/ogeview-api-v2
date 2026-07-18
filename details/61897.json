@@ -1,0 +1,250 @@
+{
+  "mal_id": 61897,
+  "url": "https://myanimelist.net/anime/61897/Katainaka_no_Ossan_Kensei_ni_Naru_II",
+  "images": {
+    "jpg": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1100/157173.jpg",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/157173t.jpg",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/157173l.jpg"
+    },
+    "webp": {
+      "image_url": "https://cdn.myanimelist.net/images/anime/1100/157173.webp",
+      "small_image_url": "https://cdn.myanimelist.net/images/anime/1100/157173t.webp",
+      "large_image_url": "https://cdn.myanimelist.net/images/anime/1100/157173l.webp"
+    }
+  },
+  "trailer": {
+    "youtube_id": null,
+    "url": null,
+    "embed_url": "https://www.youtube-nocookie.com/embed/7n7FDNqtBHg?enablejsapi=1&wmode=opaque&autoplay=1",
+    "images": {
+      "image_url": null,
+      "small_image_url": null,
+      "medium_image_url": null,
+      "large_image_url": null,
+      "maximum_image_url": null
+    }
+  },
+  "approved": true,
+  "titles": [
+    {
+      "type": "Default",
+      "title": "Katainaka no Ossan, Kensei ni Naru II"
+    },
+    {
+      "type": "Japanese",
+      "title": "片田舎のおっさん、剣聖になるII"
+    },
+    {
+      "type": "English",
+      "title": "From Old Country Bumpkin to Master Swordsman Season 2"
+    }
+  ],
+  "title": "Katainaka no Ossan, Kensei ni Naru II",
+  "title_english": "From Old Country Bumpkin to Master Swordsman Season 2",
+  "title_japanese": "片田舎のおっさん、剣聖になるII",
+  "title_synonyms": [],
+  "type": "TV",
+  "source": "Light novel",
+  "episodes": null,
+  "status": "Currently Airing",
+  "airing": true,
+  "aired": {
+    "from": "2026-07-08T00:00:00+00:00",
+    "to": null,
+    "prop": {
+      "from": {
+        "day": 8,
+        "month": 7,
+        "year": 2026
+      },
+      "to": {
+        "day": null,
+        "month": null,
+        "year": null
+      }
+    },
+    "string": "Jul 8, 2026 to ?"
+  },
+  "duration": "23 min",
+  "rating": "PG-13 - Teens 13 or older",
+  "score": 7.4,
+  "scored_by": 2306,
+  "rank": 2627,
+  "popularity": 3418,
+  "members": 55883,
+  "favorites": 81,
+  "synopsis": "Second season of Katainaka no Ossan, Kensei ni Naru.",
+  "background": "Katainaka no Ossan, Kensei ni Naru II aired on TV Asahi's IMAnimation W block.",
+  "season": "summer",
+  "year": 2026,
+  "broadcast": {
+    "day": "Wednesdays",
+    "time": "23:45",
+    "timezone": "Asia/Tokyo",
+    "string": "Wednesdays at 23:45 (JST)"
+  },
+  "producers": [
+    {
+      "mal_id": 55,
+      "type": "anime",
+      "name": "TV Asahi",
+      "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+    },
+    {
+      "mal_id": 58,
+      "type": "anime",
+      "name": "Square Enix",
+      "url": "https://myanimelist.net/anime/producer/58/Square_Enix"
+    },
+    {
+      "mal_id": 323,
+      "type": "anime",
+      "name": "Nippon Columbia",
+      "url": "https://myanimelist.net/anime/producer/323/Nippon_Columbia"
+    },
+    {
+      "mal_id": 460,
+      "type": "anime",
+      "name": "KlockWorx",
+      "url": "https://myanimelist.net/anime/producer/460/KlockWorx"
+    },
+    {
+      "mal_id": 1113,
+      "type": "anime",
+      "name": "NBCUniversal Entertainment Japan",
+      "url": "https://myanimelist.net/anime/producer/1113/NBCUniversal_Entertainment_Japan"
+    },
+    {
+      "mal_id": 1501,
+      "type": "anime",
+      "name": "JR East Marketing & Communications",
+      "url": "https://myanimelist.net/anime/producer/1501/JR_East_Marketing___Communications"
+    },
+    {
+      "mal_id": 1714,
+      "type": "anime",
+      "name": "Fujishouji",
+      "url": "https://myanimelist.net/anime/producer/1714/Fujishouji"
+    },
+    {
+      "mal_id": 1799,
+      "type": "anime",
+      "name": "Drecom",
+      "url": "https://myanimelist.net/anime/producer/1799/Drecom"
+    },
+    {
+      "mal_id": 2185,
+      "type": "anime",
+      "name": "BS Asahi",
+      "url": "https://myanimelist.net/anime/producer/2185/BS_Asahi"
+    },
+    {
+      "mal_id": 3106,
+      "type": "anime",
+      "name": "NK Animation",
+      "url": "https://myanimelist.net/anime/producer/3106/NK_Animation"
+    }
+  ],
+  "licensors": [],
+  "studios": [
+    {
+      "mal_id": 911,
+      "type": "anime",
+      "name": "Passione",
+      "url": "https://myanimelist.net/anime/producer/911/Passione"
+    },
+    {
+      "mal_id": 2370,
+      "type": "anime",
+      "name": "Hayabusa Film",
+      "url": "https://myanimelist.net/anime/producer/2370/Hayabusa_Film"
+    }
+  ],
+  "genres": [
+    {
+      "mal_id": 1,
+      "type": "anime",
+      "name": "Action",
+      "url": "https://myanimelist.net/anime/genre/1/Action"
+    },
+    {
+      "mal_id": 10,
+      "type": "anime",
+      "name": "Fantasy",
+      "url": "https://myanimelist.net/anime/genre/10/Fantasy"
+    }
+  ],
+  "explicit_genres": [],
+  "themes": [],
+  "demographics": [],
+  "relations": [
+    {
+      "relation": "Prequel",
+      "entry": [
+        {
+          "mal_id": 59452,
+          "type": "anime",
+          "name": "Katainaka no Ossan, Kensei ni Naru",
+          "url": "https://myanimelist.net/anime/59452/Katainaka_no_Ossan_Kensei_ni_Naru"
+        }
+      ]
+    },
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 145480,
+          "type": "manga",
+          "name": "Katainaka no Ossan, Kensei ni Naru: Tada no Inaka no Kenjutsu Shihan Datta noni, Taisei shita Deshi-tachi ga Ore wo Houttekurenai Ken",
+          "url": "https://myanimelist.net/manga/145480/Katainaka_no_Ossan_Kensei_ni_Naru__Tada_no_Inaka_no_Kenjutsu_Shihan_Datta_noni_Taisei_shita_Deshi-tachi_ga_Ore_wo_Houttekurenai_Ken"
+        },
+        {
+          "mal_id": 162843,
+          "type": "manga",
+          "name": "Katainaka no Ossan, Kensei ni Naru: Tada no Inaka no Kenjutsu Shihan Datta noni, Taisei shita Deshi-tachi ga Ore wo Houttekurenai Ken",
+          "url": "https://myanimelist.net/manga/162843/Katainaka_no_Ossan_Kensei_ni_Naru__Tada_no_Inaka_no_Kenjutsu_Shihan_Datta_noni_Taisei_shita_Deshi-tachi_ga_Ore_wo_Houttekurenai_Ken"
+        }
+      ]
+    }
+  ],
+  "theme": {
+    "openings": [
+      "\"Kurenai no Ha (クレナイノハ)\" by UNICORN (ユニコーン)"
+    ],
+    "endings": [
+      "\"Mikansei (未完成)\" by BLUE ENCOUNT"
+    ]
+  },
+  "external": [
+    {
+      "name": "Official Site",
+      "url": "https://ossan-kensei.com"
+    },
+    {
+      "name": "@ossan_kensei",
+      "url": "https://twitter.com/ossan_kensei"
+    },
+    {
+      "name": "AniDB",
+      "url": "https://anidb.net/perl-bin/animedb.pl?show=anime&aid=19400"
+    },
+    {
+      "name": "ANN",
+      "url": "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=36693"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/From_Old_Country_Bumpkin_to_Master_Swordsman#Anime"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://ja.wikipedia.org/wiki/片田舎のおっさん、剣聖になる_〜ただの田舎の剣術師範だったのに、大成した弟子たちが俺を放ってくれない件〜#テレビアニメ"
+    },
+    {
+      "name": "Syoboi",
+      "url": "https://cal.syoboi.jp/tid/7883"
+    }
+  ],
+  "streaming": []
+}
