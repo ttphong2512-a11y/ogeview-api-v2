@@ -69,11 +69,11 @@
   "duration": "24 min per ep",
   "rating": "PG-13 - Teens 13 or older",
   "score": 8.41,
-  "scored_by": 4211,
+  "scored_by": 6171,
   "rank": 220,
-  "popularity": 2774,
-  "members": 80543,
-  "favorites": 239,
+  "popularity": 2636,
+  "members": 87725,
+  "favorites": 259,
   "synopsis": "Third season of Grand Blue.",
   "background": "",
   "season": "summer",
@@ -237,6 +237,10 @@
     }
   ],
   "streaming": [
+    {
+      "name": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GNVHKN94W/"
+    },
     {
       "name": "Bahamut Anime Crazy",
       "url": "https://ani.gamer.com.tw/"
